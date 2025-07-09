@@ -1,0 +1,14 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>화살표 함수 ㅁ나들고 호출하기</title>
+</head>
+<body>
+<script>
+  let a =3, b = 4;
+  let sum = (num1, num2) => num1 + num2;
+  document.write(a + " + " + b + "=" + sum(a,b));
+</script>
+</body>
+</html>
