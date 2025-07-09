@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>점수 계산 프로그램</title>
+</head>
+<body>
+<script>
+  let arr1 = ["O","X","O","O","X","O","O","O","X","O","p","O","X","O"];
+  arr = s2.split("O",1);
+  arr = s2.split("X",0);
+  arr = s2.split("p",0);
+  document.write('=>'"+ arr1 +",<br>);
+  }
+  if (0 == true){
+    document.write(s2.);
+  } else {
+    document.write()
+  }
+  document.write(0);
+</script>
+
+</body>
+</html>
